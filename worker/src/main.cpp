@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Server.h"
+#include "../include/Server.h"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
